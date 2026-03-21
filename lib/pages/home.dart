@@ -1,4 +1,4 @@
-import 'package:attendance_calculator/components/attendanceui.dart';
+import 'package:attendance_calculator/constants/attendanceui.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
