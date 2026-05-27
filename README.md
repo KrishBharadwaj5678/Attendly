@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 📊 Attendly 
 
 A simple and useful application that helps students **track their attendance percentage** and understand how many classes they can **miss or need to attend** to maintain the required minimum attendance.
